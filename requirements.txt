@@ -3,4 +3,3 @@ pytest
 pytest-bdd
 pytest-xdist
 webdriver-manager
-mysql-connector-python

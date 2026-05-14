@@ -5,7 +5,7 @@ conn = mysql.connector.connect(
     host = "localhost",
     user = "uday",
     password = "9989",
-    database = "ecommerce"
+    database = "saucedemodb"
 )
 print("Connected successfully")
 #close connection
