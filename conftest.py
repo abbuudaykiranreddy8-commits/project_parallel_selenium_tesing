@@ -19,5 +19,9 @@ def driver():
     
     
     yield driver
+<<<<<<< HEAD
     driver.quit()
     
+=======
+    driver.quit()
+>>>>>>> 7920d4db709d59caaf1f1c9f9f5092305e867638
